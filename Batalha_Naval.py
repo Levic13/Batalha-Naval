@@ -291,6 +291,8 @@ def main():
             print("=" * 45)
             print("  VOCE VENCEU! Todos os navios inimigos foram destruidos!")
             print("=" * 45)
+            print("  Obrigado por jogar!")
+            print("  Grupo 23: Leandro Cardoso Vieira, Murilo Bornemann Bonamigo")
             break
 
         print("=" * 45)
@@ -305,6 +307,8 @@ def main():
             print("=" * 45)
             print("  VOCE PERDEU! Todos os seus navios foram destruidos!")
             print("=" * 45)
+            print("  Obrigado por jogar!")
+            print("  Grupo 23: Leandro Cardoso Vieira, Murilo Bornemann Bonamigo")
             break
 
 
